@@ -61,13 +61,12 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98f154ce-4621-4c1c-ae53-2ebba1de71b4" />
 
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
-[wavediagram2.pdf](https://github.com/user-attachments/files/23824013/wavediagram2.pdf)
 
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfa1943d-5846-4e53-b71f-f01576e8b138" />
 
 **RESULTS**
+
+Thus implement SR flipflop using verilog and validating their functionality using their functional tables
